@@ -1,0 +1,23 @@
+List of packages (categorized)
+---
+
+1. Required Packages
+
+    1. Git
+    2. Vim
+    3. Gparted
+    4. Dictionary  server and related packages (dict, ???)
+
+2. Additional packages (as required)
+
+    1. OpenJDK (openjdk-8-jdk-headless)
+    2. Ruby
+
+3. External packages (as required)
+
+    0. Firefox Nightly
+    1. Atom
+    2. Tomcat
+    3. Google Chrome
+    4. MariaDB
+    5. VLC
