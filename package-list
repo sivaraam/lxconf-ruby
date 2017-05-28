@@ -11,7 +11,6 @@ List of packages (categorized)
 2. Additional packages (as required)
 
     1. OpenJDK (openjdk-8-jdk-headless)
-    2. Ruby
 
 3. External packages (as required)
 
@@ -21,3 +20,15 @@ List of packages (categorized)
     3. Google Chrome
     4. MariaDB
     5. VLC
+
+
+Installed (Ubuntu) :
+
+    1. Juyter > pip3
+    2. JNLP(Java Web Start) > openjdk-8-jre icedtea-8-plugin
+
+Installed (Debian) :
+
+    1. strace (to analyze crclient failure)
+    2. libc6-i386 (crclient's dependency)
+    3. aptlist-bugs (reports any issue with packages - useful for testing)
