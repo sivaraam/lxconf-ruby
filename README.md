@@ -1,4 +1,4 @@
-lconf - The Laptop Configuration tool
+lxconf - The Laptop Configuration tool
 ---
 
 This Gem is created to automate the configuration process
