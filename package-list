@@ -7,7 +7,7 @@
     1. Git
     2. Vim
     3. Gparted
-    4. Dictionary  server and related packages (dict, ???)
+    4. Dictionary  server and related packages (dict, dict-gcide, dict-wn)
     5. zeal
 
 2. Additional packages (as required)
