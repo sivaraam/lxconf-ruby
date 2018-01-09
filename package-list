@@ -1,5 +1,6 @@
-List of packages (categorized)
----
+## List of packages (categorized)
+
+##### Covered by lxconf-bash/core-package-installer
 
 1. Required Packages
 
@@ -11,6 +12,8 @@ List of packages (categorized)
 2. Additional packages (as required)
 
     1. OpenJDK (openjdk-8-jdk-headless)
+
+##### The Rest
 
 3. External packages (as required)
 
@@ -24,7 +27,7 @@ List of packages (categorized)
 
 Installed (Ubuntu) :
 
-    1. Juyter > pip3
+    1. Jupyter > pip3
     2. JNLP(Java Web Start) > openjdk-8-jre icedtea-8-plugin
 
 Installed (Debian) :
